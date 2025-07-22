@@ -1,0 +1,10 @@
+https://github.com/andrewrothstein/ansible-kubectl/blob/main/meta/main.yml
+https://github.com/mullvad/mullvadvpn-app/blob/main/.github/workflows/daemon.yml
+https://github.com/geerlingguy/molecule-playbook-testing/blob/master/molecule/default/verify.yml
+
+https://docs.github.com/en/actions/writing-workflows/quickstart
+
+https://sbarnea.com/slides/molecule/#/16
+
+https://docs.ansible.com/ansible/latest/plugins/vars.html#using-vars-plugins
+https://galaxy.ansible.com/ui/standalone/roles/?page=1&page_size=10&sort=-created
